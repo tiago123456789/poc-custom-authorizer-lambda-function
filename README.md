@@ -6,7 +6,7 @@ The project is one POC(proof of concept) using custom authorize this way apply v
 Architecture flow:
 ===================
 
-![alt text](custom-auth-workflow.png.png "Title")
+![alt text](custom-auth-workflow.png "Title")
 
 Instructions to running application:
 =====================================
